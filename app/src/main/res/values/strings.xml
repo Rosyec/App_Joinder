@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Joinder</string>
+    <string name="Descripcion_Logo">Logo Joinder</string>
+    <string name="Texto_Cargando">Cargando...</string>
+    <string name="titulo_bienvenida">Bienvenido</string>
+    <string name="text_mensaje">¡Preparate para estar al tanto de tú hijo!</string>
+    <string name="textbutton_log">Iniciar Sesión</string>
+    <string name="textbutton_reg">Registrarme</string>
+    <string name="titulo_log">INICIAR SESIÓN</string>
+    <string name="titulo_reg">REGISTRARME</string>
+    <string name="edittext_correo_log">Correo:</string>
+    <string name="edittext_contraseña_log">Contraseña:</string>
+    <string name="textbutton_entrar">ENTRAR</string>
+    <string name="edittext_nombres_reg">Nombres:</string>
+    <string name="edittext_apellidos_reg">Apellidos:</string>
+    <string name="edittext_correo_reg">Correo:</string>
+    <string name="edittext_telefono_reg">Teléfono:</string>
+    <string name="edittext_contrasena_reg">Contraseña:</string>
+    <string name="edittext_contrasena_confir_reg">Confirmar Contraseña:</string>
+    <string name="radiobutton_padre">Padre de Familia</string>
+    <string name="radiobutton_docente">Docente</string>
+    <string name="textview_olvide_contrasena">¡Olvidé mi contraseña!</string>
+    <string name="title_activity_menu_principal">MenuPrincipalActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_comportamiento">Comportamiento</string>
+    <string name="title_chat">Chat</string>
+    <string name="action_logout">Cerrar Sesión</string>
+    <string name="titulo_asignacion_grupo">CÓDIGO DE GRUPO</string>
+    <string name="edittext_codigo_grupo">Código:</string>
+</resources>

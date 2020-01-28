@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivitySplashScreen"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:background="@drawable/background">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginBottom="200dp"
+        android:src="@drawable/logo_circle"
+        android:scaleX=".8"
+        android:scaleY=".8"
+        android:contentDescription="@string/Descripcion_Logo"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
